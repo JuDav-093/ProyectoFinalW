@@ -23,11 +23,13 @@ Control de evolución y seguimiento.
 5️⃣ Facturación
 Generación y consulta de facturas.
 Administración de métodos de pago y registros de pago.
+
 Tecnologías Utilizadas
 ASP.NET Core MVC para la estructura del proyecto.
 Entity Framework Core para la gestión de base de datos.
 SQL Server como motor de base de datos.
 Bootstrap y JavaScript para una interfaz dinámica y responsive.
+
 Beneficios del Sistema
 ✔ Centralización de la información hospitalaria.
 ✔ Optimización de la gestión de citas y tratamientos.
