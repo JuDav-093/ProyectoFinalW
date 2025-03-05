@@ -1,4 +1,5 @@
 Sistema de Gestión Hospitalaria en ASP.NET Core MVC
+
 Descripción General
 El Sistema de Gestión Hospitalaria es una aplicación web desarrollada en ASP.NET Core MVC que permite administrar eficientemente los diferentes procesos dentro de un hospital. El sistema está diseñado con una arquitectura por capas, lo que facilita su escalabilidad, mantenimiento y modularidad.
 Módulos Principales
