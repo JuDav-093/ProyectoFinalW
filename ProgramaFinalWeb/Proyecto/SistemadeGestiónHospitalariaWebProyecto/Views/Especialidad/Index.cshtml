@@ -1,0 +1,66 @@
+﻿@{
+    ViewData["Title"] = "Especialidades";
+}
+
+<h1 class="display-6 text-primary1 text-center fw-bold"> Especialidades</h1>
+
+<style>
+    .bg-info1 {
+        --bs-bg-opacity: 1;
+        background-color: #8e74b6 !important;
+    }
+
+    .text-primary1 {
+        color: black !important;
+    }
+</style>
+
+<br />
+
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
+    Agregar Especialidad
+</button>
+
+<br />
+<br />
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModalCenter" tabindex="-1" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">Gestionar Especialidad</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form id="frmEspecialidad" method="post" class="row g-3">
+                    <div class="col-md-4">
+                        <label for="idEspecialidad" class="form-label">Id Especialidad</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="idEspecialidad" id="idEspecialidad" readonly>
+                    </div>
+                    <div class="col-md-4">
+                        <label for="nombre" class="form-label">Nombre</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="nombre" id="nombre">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-success" onclick="GuardarEspecialidad()">Guardar</button>
+                <button type="button" class="btn btn-secondary" onclick="LimpiarDatos('frmEspecialidad')">Limpiar</button>
+                <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="card shadow">
+    <div class="card-header bg-info1 text-white">
+        <h5 class="mb-0">Lista de Especialidades</h5>
+    </div>
+    <div class="card-body">
+        <div id="divContenedorTabla"></div>
+    </div>
+</div>
+
+<script src="~/js/generic.js"></script>
+<script src="~/js/especialidad.js"></script>

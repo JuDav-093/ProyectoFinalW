@@ -1,0 +1,109 @@
+/* Reset básico */
+body, ul, li, a {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 14px;
+    height: 100%;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    font-family: 'Open Sans', sans-serif;
+    background: #f4f4f4;
+    background-color: aqua;
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+    color: var(--bs-secondary-color);
+    text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+    text-align: start;
+}
+
+/* Header */
+header {
+    width: 100%;
+    background-color: #e3f2fd;
+    z-index: 100;
+}
+
+/* Contenedor principal - Estructura flex para sidebar y contenido */
+.main-wrapper {
+    display: flex;
+    flex: 1;
+    min-height: 0; /* Importante para que el flex funcione correctamente */
+}
+
+/* Sidebar */
+#sidebar-nav {
+    width: 250px;
+    background: #2A2D33;
+    height: 100%;
+    overflow-y: hidden;
+    flex-shrink: 0;
+}
+
+    #sidebar-nav ul {
+        width: 100%;
+    }
+
+        #sidebar-nav ul li {
+            padding: 15px;
+            transition: background 0.3s;
+        }
+
+            #sidebar-nav ul li a {
+                color: #C2C2C2;
+                font-size: 1em;
+                font-weight: 600;
+                display: flex;
+                align-items: center;
+            }
+
+                #sidebar-nav ul li a i {
+                    margin-right: 10px;
+                    font-size: 1.3em;
+                    color: #60636B;
+                    width: 25px;
+                    text-align: center;
+                }
+
+            #sidebar-nav ul li:hover {
+                background: #fff;
+            }
+
+                #sidebar-nav ul li:hover a,
+                #sidebar-nav ul li:hover a i,
+                #sidebar-nav ul li.active a,
+                #sidebar-nav ul li.active a i {
+                    color: #333;
+                }
+
+/* Contenido principal */
+.container {
+    flex: 1;
+    padding: 20px;
+    background: #ffffff;
+    overflow-y: auto;
+}
+

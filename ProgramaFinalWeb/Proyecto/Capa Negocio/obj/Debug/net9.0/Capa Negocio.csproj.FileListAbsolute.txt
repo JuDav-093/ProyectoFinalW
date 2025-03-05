@@ -1,0 +1,86 @@
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Negocio.deps.json
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Negocio.dll
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Negocio.pdb
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Datos.dll
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Entidad.dll
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Datos.pdb
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Entidad.pdb
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.csproj.AssemblyReference.cache
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.AssemblyInfoInputs.cache
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.AssemblyInfo.cs
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.csproj.CoreCompileInputs.cache
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Neg.64FF6D98.Up2Date
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.dll
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\refint\Capa Negocio.dll
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.pdb
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\ref\Capa Negocio.dll
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Negocio.deps.json
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Negocio.dll
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Negocio.pdb
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Datos.dll
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Entidad.dll
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Datos.pdb
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Entidad.pdb
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.csproj.AssemblyReference.cache
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.AssemblyInfoInputs.cache
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.AssemblyInfo.cs
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.csproj.CoreCompileInputs.cache
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Neg.64FF6D98.Up2Date
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.dll
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\refint\Capa Negocio.dll
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.pdb
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\ref\Capa Negocio.dll
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Negocio.deps.json
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Negocio.dll
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Negocio.pdb
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Datos.dll
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Entidad.dll
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Datos.pdb
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Entidad.pdb
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.csproj.AssemblyReference.cache
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.AssemblyInfoInputs.cache
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.AssemblyInfo.cs
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Neg.64FF6D98.Up2Date
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.dll
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\refint\Capa Negocio.dll
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.pdb
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\ref\Capa Negocio.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Negocio.deps.json
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Negocio.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Negocio.pdb
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Datos.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Entidad.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Datos.pdb
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\bin\Debug\net9.0\Capa Entidad.pdb
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.csproj.AssemblyReference.cache
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.AssemblyInfoInputs.cache
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.AssemblyInfo.cs
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Neg.64FF6D98.Up2Date
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\refint\Capa Negocio.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.pdb
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Negocio\obj\Debug\net9.0\ref\Capa Negocio.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Negocio\bin\Debug\net9.0\Capa Negocio.deps.json
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Negocio\bin\Debug\net9.0\Capa Negocio.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Negocio\bin\Debug\net9.0\Capa Negocio.pdb
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Negocio\bin\Debug\net9.0\Capa Datos.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Negocio\bin\Debug\net9.0\Capa Entidad.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Negocio\bin\Debug\net9.0\Capa Datos.pdb
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Negocio\bin\Debug\net9.0\Capa Entidad.pdb
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.csproj.AssemblyReference.cache
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.AssemblyInfoInputs.cache
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.AssemblyInfo.cs
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.sourcelink.json
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Negocio\obj\Debug\net9.0\Capa Neg.64FF6D98.Up2Date
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Negocio\obj\Debug\net9.0\refint\Capa Negocio.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Negocio\obj\Debug\net9.0\Capa Negocio.pdb
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Negocio\obj\Debug\net9.0\ref\Capa Negocio.dll

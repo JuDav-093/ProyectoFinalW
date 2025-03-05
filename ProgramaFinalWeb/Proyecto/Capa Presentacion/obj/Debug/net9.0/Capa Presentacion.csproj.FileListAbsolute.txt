@@ -1,0 +1,89 @@
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Presentacion.deps.json
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Presentacion.dll
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Presentacion.pdb
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.csproj.AssemblyReference.cache
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.AssemblyInfoInputs.cache
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.AssemblyInfo.cs
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.dll
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\refint\Capa Presentacion.dll
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.pdb
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\ref\Capa Presentacion.dll
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Presentacion.deps.json
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Presentacion.dll
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Presentacion.pdb
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.csproj.AssemblyReference.cache
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.AssemblyInfoInputs.cache
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.AssemblyInfo.cs
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.dll
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\refint\Capa Presentacion.dll
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.pdb
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\ref\Capa Presentacion.dll
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Datos.dll
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Entidad.dll
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Negocio.dll
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Negocio.pdb
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Datos.pdb
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Entidad.pdb
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Pre.6EE772B1.Up2Date
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Presentacion.deps.json
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Presentacion.dll
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Presentacion.pdb
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Datos.dll
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Entidad.dll
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Negocio.dll
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Negocio.pdb
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Datos.pdb
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Entidad.pdb
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.csproj.AssemblyReference.cache
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.AssemblyInfoInputs.cache
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.AssemblyInfo.cs
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Pre.6EE772B1.Up2Date
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.dll
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\refint\Capa Presentacion.dll
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.pdb
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\ref\Capa Presentacion.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Presentacion.deps.json
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Presentacion.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Presentacion.pdb
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Datos.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Entidad.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Negocio.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Negocio.pdb
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Datos.pdb
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\bin\Debug\net9.0\Capa Entidad.pdb
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.csproj.AssemblyReference.cache
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.AssemblyInfoInputs.cache
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.AssemblyInfo.cs
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Pre.6EE772B1.Up2Date
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\refint\Capa Presentacion.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.pdb
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Presentacion\obj\Debug\net9.0\ref\Capa Presentacion.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Presentacion\bin\Debug\net9.0\Capa Presentacion.deps.json
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Presentacion\bin\Debug\net9.0\Capa Presentacion.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Presentacion\bin\Debug\net9.0\Capa Presentacion.pdb
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Presentacion\bin\Debug\net9.0\Capa Datos.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Presentacion\bin\Debug\net9.0\Capa Entidad.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Presentacion\bin\Debug\net9.0\Capa Negocio.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Presentacion\bin\Debug\net9.0\Capa Negocio.pdb
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Presentacion\bin\Debug\net9.0\Capa Datos.pdb
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Presentacion\bin\Debug\net9.0\Capa Entidad.pdb
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.csproj.AssemblyReference.cache
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.AssemblyInfoInputs.cache
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.AssemblyInfo.cs
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.sourcelink.json
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Presentacion\obj\Debug\net9.0\Capa Pre.6EE772B1.Up2Date
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Presentacion\obj\Debug\net9.0\refint\Capa Presentacion.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Presentacion\obj\Debug\net9.0\Capa Presentacion.pdb
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Presentacion\obj\Debug\net9.0\ref\Capa Presentacion.dll

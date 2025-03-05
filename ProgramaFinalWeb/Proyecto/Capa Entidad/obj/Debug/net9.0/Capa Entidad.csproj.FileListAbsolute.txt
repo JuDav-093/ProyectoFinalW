@@ -1,0 +1,61 @@
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\bin\Debug\net9.0\Capa Entidad.deps.json
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\bin\Debug\net9.0\Capa Entidad.dll
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\bin\Debug\net9.0\Capa Entidad.pdb
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.csproj.AssemblyReference.cache
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.AssemblyInfoInputs.cache
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.AssemblyInfo.cs
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.csproj.CoreCompileInputs.cache
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.dll
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\refint\Capa Entidad.dll
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.pdb
+C:\Users\LNV\source\repos\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\ref\Capa Entidad.dll
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\bin\Debug\net9.0\Capa Entidad.deps.json
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\bin\Debug\net9.0\Capa Entidad.dll
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\bin\Debug\net9.0\Capa Entidad.pdb
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.csproj.AssemblyReference.cache
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.AssemblyInfoInputs.cache
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.AssemblyInfo.cs
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.csproj.CoreCompileInputs.cache
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.dll
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\refint\Capa Entidad.dll
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.pdb
+C:\Users\LNV\source\repos\ProgramaFinalWebSi\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\ref\Capa Entidad.dll
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\bin\Debug\net9.0\Capa Entidad.deps.json
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\bin\Debug\net9.0\Capa Entidad.dll
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\bin\Debug\net9.0\Capa Entidad.pdb
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.csproj.AssemblyReference.cache
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.AssemblyInfoInputs.cache
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.AssemblyInfo.cs
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.dll
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\refint\Capa Entidad.dll
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.pdb
+C:\Users\Juanis\Downloads\ProgramaFinalWeb (2)\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\ref\Capa Entidad.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\bin\Debug\net9.0\Capa Entidad.deps.json
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\bin\Debug\net9.0\Capa Entidad.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\bin\Debug\net9.0\Capa Entidad.pdb
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.csproj.AssemblyReference.cache
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.AssemblyInfoInputs.cache
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.AssemblyInfo.cs
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\refint\Capa Entidad.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.pdb
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\SistemadeGestiónHospitalariaWebProyecto\Capa Entidad\obj\Debug\net9.0\ref\Capa Entidad.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Entidad\bin\Debug\net9.0\Capa Entidad.deps.json
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Entidad\bin\Debug\net9.0\Capa Entidad.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Entidad\bin\Debug\net9.0\Capa Entidad.pdb
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.csproj.AssemblyReference.cache
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.AssemblyInfoInputs.cache
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.AssemblyInfo.cs
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.sourcelink.json
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Entidad\obj\Debug\net9.0\refint\Capa Entidad.dll
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Entidad\obj\Debug\net9.0\Capa Entidad.pdb
+C:\Users\Juanis\source\repos\JuDav-093\ProyectoFinalW\ProgramaFinalWeb\Proyecto\Capa Entidad\obj\Debug\net9.0\ref\Capa Entidad.dll
