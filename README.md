@@ -1,26 +1,25 @@
 Sistema de Gestión Hospitalaria en ASP.NET Core MVC
 Descripción General
 El Sistema de Gestión Hospitalaria es una aplicación web desarrollada en ASP.NET Core MVC que permite administrar eficientemente los diferentes procesos dentro de un hospital. El sistema está diseñado con una arquitectura por capas, lo que facilita su escalabilidad, mantenimiento y modularidad.
-
 Módulos Principales
-1️⃣ Gestión de Pacientes
 
+1️⃣ Gestión de Pacientes
 Registro y actualización de datos de los pacientes.
 Consulta de historial médico.
-2️⃣ Gestión de Médicos
 
+2️⃣ Gestión de Médicos
 Administración de perfiles de médicos.
 Asignación de especialidades y horarios.
-3️⃣ Citas Médicas
 
+3️⃣ Citas Médicas
 Programación, modificación y cancelación de citas.
 Asignación de citas a médicos y pacientes.
-4️⃣ Tratamientos Médicos
 
+4️⃣ Tratamientos Médicos
 Registro de tratamientos asignados a pacientes.
 Control de evolución y seguimiento.
-5️⃣ Facturación
 
+5️⃣ Facturación
 Generación y consulta de facturas.
 Administración de métodos de pago y registros de pago.
 Tecnologías Utilizadas
